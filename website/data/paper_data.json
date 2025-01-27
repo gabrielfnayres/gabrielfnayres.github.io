@@ -1,0 +1,19 @@
+[{"title": "Matryoshka Diffusion Models",
+"authors": [ "Advisor: Luke Carlson"],
+"conference": "Apple ML",
+"year": 2024,
+"image": "matryoshka.png",
+"links": {  "Open-Source repo": "https://github.com/apple/ml-mdm"} 
+},{"title": "Python Private Federated Learning framework",
+  "authors": ["Advisor: Filip Granqvist"],
+  "conference": "Apple ML",
+  "year": 2024,
+  "image": "pfl.png",
+  "links": {"Open-Source repo": "https://github.com/apple/pfl-research/tree/develop"}}, 
+{"title": "Walk on Stars implementation",
+  "authors": ["Advisor: Me :)"],
+  "conference": "SGP",
+  "year": 2024,
+  "image": "wos-stars.png",
+  "links": {"My implementation": "https://github.com/gabrielfnayres/MonteCarloGeometryProcessing"}
+}]
