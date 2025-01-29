@@ -11,4 +11,12 @@
   "year": 2024,
   "image": "calculus.png",
   "links": { } 
+},
+{
+  "title": "TRILHA - UFPB",
+  "authors": ["Instructor"],
+  "conference": "Yearly",
+  "year": 2024,
+  "image": "trilhaufpb_logo.jpeg",
+  "links": {"check it out!": "https://trilhaufpb.com"}
 }]

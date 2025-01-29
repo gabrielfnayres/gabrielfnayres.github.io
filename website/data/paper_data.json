@@ -10,7 +10,7 @@
   "year": 2024,
   "image": "pfl.png",
   "links": {"Open-Source repo": "https://github.com/apple/pfl-research/tree/develop"}}, 
-{"title": "Walk on Stars implementation",
+{"title": "Walk on Stars: Monte-Carlo grid free method implementation",
   "authors": ["Advisor: Me :)"],
   "conference": "SGP",
   "year": 2024,
